@@ -8,7 +8,7 @@
 Клонуйте репозиторій
 
 ```bash
-git clone https://github.com/твоє-ім'я-користувача/назва-репозиторію.git
+git clone https://github.com/ArseniiBuhaiev/dataset-to-lemmas-to-vector.git
 cd назва-репозиторію
 ```
 Створіть віртуальне середовище
