@@ -9,7 +9,7 @@
 
 ```bash
 git clone https://github.com/ArseniiBuhaiev/dataset-to-lemmas-to-vector.git
-cd назва-репозиторію
+cd dataset-to-lemmas-to-vector
 ```
 Створіть віртуальне середовище
 
